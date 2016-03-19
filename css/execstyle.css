@@ -27,12 +27,14 @@ h6 {
     font-family: Montserrat,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
+    color: #fff
 }
 
 p {
     margin: 0 0 20px;
     font-size: 16px;
     line-height: 1.6em;
+    color: #fff
 }
 
 p.lead {
@@ -284,6 +286,25 @@ hr {
 	background: url(../img/IMG_2224.jpg) no-repeat top center;
 }
 
+.bg-gilb {
+	background: url(../img/IMG_2283.jpg) no-repeat top center;
+}
+
+.bg-steph {
+	background: url(../img/bg_steph.jpg) no-repeat top center;
+}
+
+.bg-ashna {
+	background: url(../img/.jpg) no-repeat top center;
+}
+
+.bg-angela {
+	background: url(../img/.jpg) no-repeat top center;
+}
+
+.bg-andra {
+	background: url(../img/.jpg) no-repeat top center;
+}
 
 .bg-dark {
 	background: #575757;
