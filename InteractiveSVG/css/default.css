@@ -13,20 +13,6 @@ html { height: 100%; }
 	margin: 0;
 }
 
-/* Clearfix hack by Nicolas Gallagher: http://nicolasgallagher.com/micro-clearfix-hack/ */
-.clearfix:before,
-.clearfix:after {
-    content: " ";
-    display: table;
-}
-
-.clearfix:after {
-    clear: both;
-}
-
-.clearfix {
-    *zoom: 1;
-}
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
@@ -49,7 +35,6 @@ h6 {
     font-family: Montserrat,sans-serif;
     font-weight: 700;
     letter-spacing: 1px;
-		text-align: center;
 }
 
 p {
@@ -61,6 +46,22 @@ p {
 a {
 	color: #555;
 	text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    text-decoration: none;
+    color: #00ff00;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
 }
 
 .container {
@@ -183,43 +184,123 @@ a {
 }
 
 
+.contact {
+	width:100%;
+	position:relative;
 
-
-/* Demo Buttons Style */
-.codrops-demos {
-	float: right;
-	padding-top: 10px;
+	background: url(../img/contact.jpg) no-repeat top center;
 }
 
-.codrops-demos a {
-    display: inline-block;
-    margin: 10px;
-    color: #666;
-    font-weight: 700;
-    line-height: 30px;
-    border-bottom: 4px solid transparent;
+#contact.contact {
+	padding:6% 0 0 0;
 }
 
-.codrops-demos a:hover {
-	color: #000;
-	border-color: #000;
+.contact .slogan {
+	text-align:center;
+	color: #ffffff
+
 }
 
-.codrops-demos a.current-demo,
-.codrops-demos a.current-demo:hover {
-	color: #aaa;
-	border-color: #aaa;
+.footer {
+	width:100%;
+	position:relative;
+	text-align: center
+
+	background: url(../img/contact.jpg) no-repeat top center;
 }
 
-.support-note {
-	clear: both;
+#footer.footer {
+	padding:4% 10% 2% 10%;
 }
 
-.support-note span{
-	color: #ac375d;
-	font-size: 16px;
-	display: none;
-	font-weight: bold;
+
+/* ===========================
+--- Footer
+============================ */
+
+footer {
 	text-align: center;
-	padding: 5px 0;
+	bottom:0;
+}
+
+.bg-gray {
+		background: url(/img/blue.png);
+}
+
+footer p {
+	color: #FFFFFF;
+}
+
+/* ===========================
+--- Elements
+============================ */
+
+.btn {
+	border-radius: 0;
+    text-transform: uppercase;
+    font-family: Montserrat,sans-serif;
+    font-weight: 400;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+
+
+.btn-circle {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    padding: 7px 30px;
+    border: 2px solid #fff;
+    border-radius: 70%;
+    font-size: 40px;
+    color: #fff;
+    background: 0 0;
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
+}
+
+.btn-circle.btn-dark {
+    border: 2px solid #666;
+    color: #666;
+}
+
+
+.btn-circle:hover,
+.btn-circle:focus {
+    outline: 0;
+    color: #fff;
+    background: rgba(255,255,255,.1);
+}
+
+.btn-circle.btn-dark :hover,
+.btn-circle.btn-dark :focus {
+    outline: 0;
+    color: #999;
+    background: #fff;
+}
+
+.btn-circle.btn-dark :hover i,
+.btn-circle.btn-dark :focus i{
+    color: #999;
+}
+
+
+.btn-skin:hover,
+.btn-skin:focus,
+.btn-skin:active,
+.btn-skin.active {
+  color: #fff;
+  background-color: #666;
+  border-color: #666;
+}
+
+
+.btn-default:hover,
+.btn-default:focus {
+    border: 1px solid #28c3ab;
+    outline: 0;
+    color: #000;
+    background-color: #28c3ab;
 }
