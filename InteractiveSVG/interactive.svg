@@ -3,19 +3,59 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="InteractiveSVG" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
 	 y="0px" width="1024px" height="1388px" viewBox="0 0 1024 1388" enable-background="new 0 0 1024 1388" xml:space="preserve">
+	 <g id="background">
+	 	<rect y="297.986" fill="#ffffff" width="1023.91" height="1090"/>
+	 	<g>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="1252.486" x2="565.455" y2="1252.486"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="1177.577" x2="565.455" y2="1177.577"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="1102.668" x2="565.455" y2="1102.668"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="1027.758" x2="565.455" y2="1027.758"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="952.85" x2="565.455" y2="952.85"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="877.94" x2="565.455" y2="877.94"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="803.031" x2="565.455" y2="803.031"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="728.123" x2="565.455" y2="728.122"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="653.214" x2="565.455" y2="653.214"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="578.305" x2="565.455" y2="578.305"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="503.396" x2="565.455" y2="503.396"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="428.486" x2="565.455" y2="428.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="353.486" x2="565.455" y2="353.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="278.486" x2="565.455" y2="278.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="203.486" x2="565.455" y2="203.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="950.369" y1="128.486" x2="565.455" y2="128.486"/>
+
+		</g>
+	 	<g>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="1252.486" x2="89.467" y2="1252.486"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="1177.577" x2="89.467" y2="1177.577"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="1102.668" x2="89.467" y2="1102.668"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="1027.758" x2="89.467" y2="1027.758"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="952.85" x2="89.467" y2="952.85"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="877.94" x2="89.467" y2="877.94"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="803.031" x2="89.467" y2="803.031"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="728.122" x2="89.467" y2="728.122"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="653.214" x2="89.467" y2="653.214"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="578.305" x2="89.467" y2="578.305"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="503.396" x2="89.467" y2="503.396"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="428.486" x2="89.467" y2="428.486"/>
+	 		<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="353.486" x2="89.467" y2="353.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="278.486" x2="89.467" y2="278.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="203.486" x2="89.467" y2="203.486"/>
+			<line fill="none" stroke="#CADBDD" stroke-miterlimit="10" x1="458.454" y1="128.486" x2="89.467" y2="128.486"/>
+		</g>
+	 </g>
 
 <g id="timeline">
 	<g id="one">
-		<rect x="505.545" y="50" fill="#5B4F35" width="17" height="180"/>
-		<polyline fill="#5B4F35" points="509.334,134.132 497.023,143.456 514.566,154.415 		"/>
+		<rect x="505.545" y="50" fill="#5B4F35" width="17" height="160"/>
+		<polyline fill="#5B4F35" points="509.334,124.132 497.023,133.456 514.566,144.415 		"/>
 		<g>
 			<text transform="matrix(1 0 0 1 565.5449 144.2139)" fill="#5B4F35" font-family="'LeagueGothic'" font-size="29">2017</text>
 		</g>
 		<g id="one-badge">
 			<circle fill="#5B4F35" cx="311.581" cy="134.273" r="130.5"/>
 			<g id="one-title">
-				<text transform="matrix(1 0 0 1 288.416 40.2793)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">TOUGH</text>
-				<text transform="matrix(1 0 0 1 267.416 70.2793)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">BEGINNINGS</text>
+				<text transform="matrix(1 0 0 1 288.416 50.2793)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">TOUGH</text>
+				<text transform="matrix(1 0 0 1 267.416 80.2793)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">BEGINNINGS</text>
 			</g>
 			<g id="one-details">
 				<rect x="219.11" y="530.174" fill="none" width="187" height="68"/>
@@ -25,67 +65,114 @@
 		</g>
 	</g>
 	<g id="two">
-		<rect x="505.545" y="550" fill="#D1652F" width="17" height="120"/>
-		<polyline fill="#D1652F" points="520.256,614.415 532.566,605.092 515.023,594.132 		"/>
-		<text transform="matrix(1 0 0 1 413.2793 616.6328)" fill="#D1652F" font-family="'LeagueGothic'" font-size="28.2251">2018</text>
+		<rect x="505.545" y="210" fill="#D1652F" width="17" height="160"/>
+		<polyline fill="#D1652F" points="520.256,294.415 532.566,285.092 515.023,274.132 		"/>
+		<text transform="matrix(1 0 0 1 413.2793 300.6328)" fill="#D1652F" font-family="'LeagueGothic'" font-size="28.2251">2018</text>
 		<g id="two-badge">
-			<circle fill="#D1652F" cx="711" cy="604.5" r="130.5"/>
+			<circle fill="#D1652F" cx="711" cy="294.5" r="130.5"/>
 			<g id="two-title">
-				<text transform="matrix(1 0 0 1 682.4639 523.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">COMEBACK</text>
+				<text transform="matrix(1 0 0 1 672.4639 210.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">COMEBACK</text>
 			</g>
 			<g id="two-details">
 				<rect x="616.468" y="650.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 630.1738 663.6289)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="18">WORLDWIDE, A NEW WEB PAGE IS </text>
-				<text transform="matrix(1 0 0 1 637.2568 685.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="18">twoED EVERY 0.4 SECONDS</text>
+				<text transform="matrix(1 0 0 1 630.1738 263.6289)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="18">WORLDWIDE, A NEW WEB PAGE IS </text>
+				<text transform="matrix(1 0 0 1 637.2568 285.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="18">twoED EVERY 0.4 SECONDS</text>
 			</g>
 		</g>
 	</g>
 	<g id="three">
-		<rect x="505.545" y="674" fill="#B1C482" width="17" height="120"/>
-		<polyline fill="#B1C482" points="509.334,731.133 497.023,740.455 514.566,751.415 		"/>
-		<text transform="matrix(1 0 0 1 558.6953 745.7109)" fill="#B1C482" font-family="'LeagueGothic'" font-size="28.2251">2019</text>
+		<rect x="505.545" y="378" fill="#B1C482" width="17" height="160"/>
+		<polyline fill="#B1C482" points="509.334,449.133 497.023,458.455 514.566,469.415 		"/>
+		<text transform="matrix(1 0 0 1 558.6953 465.7109)" fill="#B1C482" font-family="'LeagueGothic'" font-size="28.2251">2019</text>
 		<g id="three-badge">
-			<circle fill="#B1C482" cx="311" cy="730.5" r="130.5"/>
+			<circle fill="#B1C482" cx="311" cy="455.5" r="130.5"/>
 			<g id="three-title">
-				<text transform="matrix(1 0 0 1 287.0991 691.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">THREE</text>
+				<text transform="matrix(1 0 0 1 287.0991 370.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">THREE</text>
 			</g>
 			<g id="three-details">
 				<rect x="215.893" y="818.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 226.1045 831.6289)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">64% OF WEB twoERS CONSIDER</text>
-				<text transform="matrix(1 0 0 1 244.9507 853.2305)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">THEMSELVES SELF-TAUGHT</text>
+				<text transform="matrix(1 0 0 1 226.1045 431.6289)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">64% OF WEB twoERS CONSIDER</text>
+				<text transform="matrix(1 0 0 1 244.9507 453.2305)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">THEMSELVES SELF-TAUGHT</text>
 			</g>
 		</g>
 	</g>
 	<g id="four">
-		<rect x="505.545" y="800" fill="#6DBACC" width="17" height="120"/>
-		<polyline fill="#6DBACC" points="520.256,820.415 532.566,811.092 515.023,800.133 		"/>
-		<text transform="matrix(1 0 0 1 407.2793 867.6328)" fill="#6DBACC" font-family="'LeagueGothic'" font-size="28.2251">2020</text>
+		<rect x="505.545" y="540" fill="#6DBACC" width="17" height="160"/>
+		<polyline fill="#6DBACC" points="520.256,620.415 532.566,611.092 515.023,600.133 		"/>
+		<text transform="matrix(1 0 0 1 407.2793 624.6328)" fill="#6DBACC" font-family="'LeagueGothic'" font-size="28.2251">2020</text>
 		<g id="four-badge">
-			<circle fill="#6DBACC" cx="717" cy="820.5" r="130.5"/>
+			<circle fill="#6DBACC" cx="717" cy="615.5" r="130.5"/>
 			<g id="four-title">
-				<text transform="matrix(1 0 0 1 680.0996 916.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="24.3935">FOUR</text>
-				<text transform="matrix(1 0 0 1 684.5508 940.2686)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="24.3935">ABOUT IE</text>
+				<text transform="matrix(1 0 0 1 698.0996 526.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">FOUR</text>
 			</g>
 			<g id="four-details">
 				<rect x="622.892" y="1046.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 637.332 1059.6289)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">BROWSER QUIRKS CAN INCREASE </text>
-				<text transform="matrix(1 0 0 1 646.9707 1081.2305)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">PRODUCTION TIME UP TO 71%</text>
+				<text transform="matrix(1 0 0 1 637.332 659.6289)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">BROWSER QUIRKS CAN INCREASE </text>
+				<text transform="matrix(1 0 0 1 646.9707 681.2305)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">PRODUCTION TIME UP TO 71%</text>
 			</g>
 		</g>
 	</g>
-	<g id="beer">
-		<rect x="505.545" y="1143" fill="#EAB83D" width="17" height="110"/>
-		<polyline fill="#EAB83D" points="509.334,1190.133 497.023,1199.455 514.566,1210.415 		"/>
-		<text transform="matrix(1 0 0 1 558.6953 1206.0137)" fill="#EAB83D" font-family="'LeagueGothic'" font-size="28.2251">3PM</text>
-		<g id="beer-badge">
-			<circle fill="#EAB83D" cx="313" cy="1190.5" r="130.5"/>
-			<g id="beer-title">
-				<text transform="matrix(1 0 0 1 290.5708 1109.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">BEER</text>
+	<g id="five">
+		<rect x="505.545" y="703" fill="#EAB83D" width="17" height="160"/>
+		<polyline fill="#EAB83D" points="509.334,780.133 497.023,789.455 514.566,800.415 		"/>
+		<text transform="matrix(1 0 0 1 558.6953 800.0137)" fill="#EAB83D" font-family="'LeagueGothic'" font-size="28.2251">2021</text>
+		<g id="five-badge">
+			<circle fill="#EAB83D" cx="313" cy="780.5" r="130.5"/>
+			<g id="five-title">
+				<text transform="matrix(1 0 0 1 295.5708 695.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">FIVE</text>
 			</g>
-			<g id="beer-details">
+			<g id="five-details">
 				<rect x="217.893" y="1236.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 236.0879 1249.6289)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">HEINEKEN IS THE #1 CHOICE OF</text>
-				<text transform="matrix(1 0 0 1 240.1099 1271.2305)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">BEER AMONG WEB twoERS</text>
+				<text transform="matrix(1 0 0 1 236.0879 849.6289)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">HEINEKEN IS THE #1 CHOICE OF</text>
+				<text transform="matrix(1 0 0 1 240.1099 871.2305)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">BEER AMONG WEB twoERS</text>
+			</g>
+		</g>
+	</g>
+	<g id="six">
+		<rect x="505.545" y="866" fill="#6DBACC" width="17" height="160"/>
+		<polyline fill="#6DBACC" points="520.256,955.415 532.566,946.092 515.023,935.133 		"/>
+		<text transform="matrix(1 0 0 1 407.2793 962.6328)" fill="#6DBACC" font-family="'LeagueGothic'" font-size="28.2251">2022</text>
+		<g id="six-badge">
+			<circle fill="#6DBACC" cx="717" cy="950.5" r="130.5"/>
+			<g id="six-title">
+				<text transform="matrix(1 0 0 1 704.0996 865.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">SIX</text>
+			</g>
+			<g id="six-details">
+				<rect x="622.892" y="1046.4" fill="none" width="187" height="68"/>
+				<text transform="matrix(1 0 0 1 637.332 959.6289)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">BROWSER QUIRKS CAN INCREASE </text>
+				<text transform="matrix(1 0 0 1 646.9707 981.2305)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">PRODUCTION TIME UP TO 71%</text>
+			</g>
+		</g>
+	</g>
+	<g id="seven">
+		<rect x="505.545" y="1028" fill="#EAB83D" width="17" height="160"/>
+		<polyline fill="#EAB83D" points="509.334,1105.133 497.023,1114.455 514.566,1125.415 		"/>
+		<text transform="matrix(1 0 0 1 558.6953 1122.0137)" fill="#EAB83D" font-family="'LeagueGothic'" font-size="28.2251">2023</text>
+		<g id="seven-badge">
+			<circle fill="#EAB83D" cx="313" cy="1110.5" r="130.5"/>
+			<g id="seven-title">
+				<text transform="matrix(1 0 0 1 292.5708 1050.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">SEVEN</text>
+			</g>
+			<g id="seven-details">
+				<rect x="217.893" y="1236.4" fill="none" width="187" height="68"/>
+				<text transform="matrix(1 0 0 1 236.0879 1149.6289)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">HEINEKEN IS THE #1 CHOICE OF</text>
+				<text transform="matrix(1 0 0 1 240.1099 1171.2305)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">BEER AMONG WEB twoERS</text>
+			</g>
+		</g>
+	</g>
+	<g id="eight">
+		<rect x="505.545" y="1191" fill="#6DBACC" width="17" height="160"/>
+		<polyline fill="#6DBACC" points="520.256,1255.415 532.566,1246.092 515.023,1235.133 		"/>
+		<text transform="matrix(1 0 0 1 407.2793 1282.6328)" fill="#6DBACC" font-family="'LeagueGothic'" font-size="28.2251">2024</text>
+		<g id="eight-badge">
+			<circle fill="#6DBACC" cx="717" cy="1260.5" r="130.5"/>
+			<g id="eight-title">
+				<text transform="matrix(1 0 0 1 695.0996 1168.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">EIGHT</text>
+			</g>
+			<g id="eight-details">
+				<rect x="622.892" y="1046.4" fill="none" width="187" height="68"/>
+				<text transform="matrix(1 0 0 1 637.332 1259.6289)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">BROWSER QUIRKS CAN INCREASE </text>
+				<text transform="matrix(1 0 0 1 646.9707 1281.2305)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">PRODUCTION TIME UP TO 71%</text>
 			</g>
 		</g>
 	</g>
