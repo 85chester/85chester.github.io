@@ -44,14 +44,14 @@ p {
 }
 
 a {
-	color: #555;
+	color: #D3D3D3;
 	text-decoration: none;
 }
 
 a:hover,
 a:focus {
     text-decoration: none;
-    color: #00ff00;
+    color: #7FFF00;
 }
 
 hr {
@@ -142,7 +142,7 @@ hr {
 }
 
 #intro.intro {
-	padding:20% 0 0 0;
+	padding:25% 0 0 0;
 }
 
 .intro .slogan {
@@ -183,6 +183,22 @@ hr {
 	text-shadow: -2px 2px 2px #000;
 }
 
+.intro2 {
+	width:100%;
+	position:relative;
+
+	background: url(../img/intro2.jpg) center center;
+}
+
+#intro2.intro2 {
+	padding: 5% 0 0 0;
+}
+
+.intro2 .slogan {
+	text-align:center;
+	color: #ffffff
+
+}
 
 .contact {
 	width:100%;
