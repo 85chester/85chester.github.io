@@ -283,27 +283,27 @@ hr {
 }
 
 .bg-gray {
-	background: url(../img/IMG_2224.jpg) no-repeat top center;
+	background: url(../img/IMG_2224.jpg) top center;
 }
 
 .bg-gilb {
-	background: url(../img/bg_gilb.jpg) no-repeat top center;
+	background: url(../img/bg_gilb.jpg) top center;
 }
 
 .bg-steph {
-	background: url(../img/bg_steph.jpg) no-repeat top center;
+	background: url(../img/bg_steph.jpg) top center;
 }
 
 .bg-ashna {
-	background: url(../img/bg_ashna.jpg) no-repeat top center;
+	background: url(../img/bg_ashna.jpg) top center;
 }
 
 .bg-angela {
-	background: url(../img/.jpg) no-repeat top center;
+	background: url(../img/.jpg) top center;
 }
 
 .bg-andra {
-	background: url(../img/bg_andra.jpg) no-repeat top center;
+	background: url(../img/bg_andra.jpg) top center;
 }
 
 .bg-dark {
@@ -326,7 +326,7 @@ hr {
 	width:100%;
 	position:relative;
 
-	background: url(../img/bg3.jpg) no-repeat top center;
+	background: url(../img/bg3.jpg) top center;
 }
 
 #intro.intro {

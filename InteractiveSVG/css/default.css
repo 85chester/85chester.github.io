@@ -138,7 +138,7 @@ hr {
 	width:100%;
 	position:relative;
 
-	background: url(../img/history.jpg) no-repeat top center;
+	background: url(../img/history.jpg) top center;
 }
 
 #intro.intro {
@@ -188,7 +188,7 @@ hr {
 	width:100%;
 	position:relative;
 
-	background: url(../img/contact.jpg) no-repeat top center;
+	background: url(../img/contact.jpg) top center;
 }
 
 #contact.contact {
@@ -206,7 +206,7 @@ hr {
 	position:relative;
 	text-align: center
 
-	background: url(../img/contact.jpg) no-repeat top center;
+	background: url(../img/contact.jpg) top center;
 }
 
 #footer.footer {
