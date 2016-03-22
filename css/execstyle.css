@@ -283,7 +283,7 @@ hr {
 }
 
 .bg-gray {
-	background: url(../img/IMG_2224.jpg) top center;
+	background: url(../img/IMG_2224.jpg) no-repeat top center;
 }
 
 .bg-gilb {
@@ -330,7 +330,7 @@ hr {
 }
 
 #intro.intro {
-	padding:20% 0 0 0;
+	padding:20% 0 20% 0;
 }
 
 .intro .slogan {
