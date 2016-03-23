@@ -309,7 +309,7 @@ hr {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;  
+  background-size: cover;
 }
 
 #intro.intro {
@@ -530,6 +530,10 @@ footer {
 
 footer p {
 	color: #f8f8f8;
+}
+
+footer a {
+  color: #fff
 }
 
 /* ==========================
