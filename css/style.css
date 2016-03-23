@@ -302,10 +302,12 @@ hr {
 ============================ */
 
 .intro {
-	width:100%;
-	position:relative;
 
-	background: url(../img/bg1.jpg) no-repeat top center;
+	background: url(../img/bg1.jpg) no-repeat top center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #intro.intro {

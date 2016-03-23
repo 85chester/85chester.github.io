@@ -284,26 +284,50 @@ hr {
 
 .bg-gray {
 	background: url(../img/IMG_2224.jpg) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-gilb {
-	background: url(../img/bg_gilb.jpg) top center;
+	background: url(../img/bg_gilb.jpg) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-steph {
-	background: url(../img/bg_steph.jpg) top center;
+	background: url(../img/bg_steph.jpg) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-ashna {
-	background: url(../img/bg_ashna.png) top center;
+	background: url(../img/bg_ashna.png) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-angela {
-	background: url(../img/.jpg) top center;
+	background: url(../img/.jpg) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-andra {
-	background: url(../img/bg_andra.jpg) top center;
+	background: url(../img/bg_andra.jpg) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 .bg-dark {
@@ -326,7 +350,11 @@ hr {
 	width:100%;
 	position:relative;
 
-	background: url(../img/bg3.jpg) top center;
+	background: url(../img/bg3.jpg) no-repeat top center;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
 
 #intro.intro {
@@ -447,7 +475,7 @@ hr {
 ============================ */
 
 .service-icon {
-	margin-bottom: 20px;
+	margin-bottom: 40px;
 }
 
 
@@ -532,7 +560,6 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 .company-social .social-deviantart a:hover{background: #adc376;}
 .company-social .social-google a:hover{background: #333;}
 .company-social .social-vimeo a:hover{background: #71c6f3;}
-
 
 
 /* ===========================
