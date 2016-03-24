@@ -46,79 +46,90 @@
 
 <g id="timeline">
 	<g id="one">
-		<rect x="505.545" y="50" fill="#5B4F35" width="17" height="160"/>
-		<polyline fill="#5B4F35" points="509.334,124.132 497.023,133.456 514.566,144.415 		"/>
+		<rect x="505.545" y="50" fill="#000066" width="17" height="160"/>
+		<polyline fill="#000066" points="509.334,124.132 497.023,133.456 514.566,144.415 		"/>
 		<g>
-			<text transform="matrix(1 0 0 1 565.5449 144.2139)" fill="#5B4F35" font-family="'LeagueGothic'" font-size="29">2017</text>
+			<text transform="matrix(1 0 0 1 565.5449 144.2139)" fill="#000066" font-family="'LeagueGothic'" font-size="29">2017</text>
 		</g>
 		<g id="one-badge">
-			<circle fill="#5B4F35" cx="311.581" cy="134.273" r="130.5"/>
+			<circle fill="#000066" cx="311.581" cy="134.273" r="130.5"/>
 			<g id="one-title">
 				<text transform="matrix(1 0 0 1 288.416 50.2793)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">TOUGH</text>
 				<text transform="matrix(1 0 0 1 267.416 80.2793)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">BEGINNINGS</text>
 			</g>
 			<g id="one-details">
 				<rect x="219.11" y="530.174" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 223.7134 115.4023)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">3RD HIGHEST SALES REVENUE IN THE</text>
-				<text transform="matrix(1 0 0 1 225.6372 140.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">INDUSTRY. 21% MARKET SHARE IN </text>
-				<text transform="matrix(1 0 0 1 200.6372 165.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">PERFORMANCE SEGMENT WITH COAT SENSOR.</text>
-				<text transform="matrix(1 0 0 1 219.6372 190.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">REACHED A TOTAL OF 5 DIFFERENT AND </text>
-				<text transform="matrix(1 0 0 1 228.6372 215.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">UNIQUE SENSORS IN 5 DIFFERENT</text>
-				<text transform="matrix(1 0 0 1 285.6372 240.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">MARKETS. </text>
+				<text transform="matrix(1 0 0 1 223.7134 115.4023)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">3RD HIGHEST SALES REVENUE IN THE</text>
+				<text transform="matrix(1 0 0 1 225.6372 140.0039)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">INDUSTRY. 21% MARKET SHARE IN </text>
+				<text transform="matrix(1 0 0 1 200.6372 165.0039)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">PERFORMANCE SEGMENT WITH COAT SENSOR.</text>
+				<text transform="matrix(1 0 0 1 219.6372 190.0039)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">REACHED A TOTAL OF 5 DIFFERENT AND </text>
+				<text transform="matrix(1 0 0 1 228.6372 215.0039)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">UNIQUE SENSORS IN 5 DIFFERENT</text>
+				<text transform="matrix(1 0 0 1 285.6372 240.0039)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">MARKETS. </text>
 
 			</g>
 		</g>
 	</g>
 	<g id="two">
-		<rect x="505.545" y="210" fill="#D1652F" width="17" height="160"/>
-		<polyline fill="#D1652F" points="520.256,294.415 532.566,285.092 515.023,274.132 		"/>
-		<text transform="matrix(1 0 0 1 413.2793 300.6328)" fill="#D1652F" font-family="'LeagueGothic'" font-size="28.2251">2018</text>
+		<rect x="505.545" y="210" fill="#99e600" width="17" height="160"/>
+		<polyline fill="#99e600" points="520.256,294.415 532.566,285.092 515.023,274.132 		"/>
+		<text transform="matrix(1 0 0 1 413.2793 300.6328)" fill="#99e600" font-family="'LeagueGothic'" font-size="29">2018</text>
 		<g id="two-badge">
-			<circle fill="#D1652F" cx="711" cy="294.5" r="130.5"/>
+			<circle fill="#99e600" cx="711" cy="294.5" r="130.5"/>
 			<g id="two-title">
-				<text transform="matrix(1 0 0 1 670.4639 208.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">COMEBACK</text>
+				<text transform="matrix(1 0 0 1 670.4639 208.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">COMEBACK</text>
 			</g>
 			<g id="two-details">
 				<rect x="616.468" y="650.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 617.1738 245.6289)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">HIGHEST SALES REVENUE OF INDUSTRY </text>
-				<text transform="matrix(1 0 0 1 613.2568 270.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">AT 156 MILLLION AND HIGHEST MARKET </text>
-				<text transform="matrix(1 0 0 1 595.2568 295.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">SHARE OF 20.29%. REACHED OVER 30% IN THE</text>
-				<text transform="matrix(1 0 0 1 615.2568 320.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">OVERALL CONTRIBUTION MARGIN. HIGH</text>
-				<text transform="matrix(1 0 0 1 605.2568 345.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">END SENSOR, CID, MANAGED A WHOPPING </text>
-				<text transform="matrix(1 0 0 1 640.2568 370.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">37% CONTRIBUTION MARGIN.</text>
+				<text transform="matrix(1 0 0 1 611.1738 245.6289)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">HIGHEST SALES REVENUE OF INDUSTRY </text>
+				<text transform="matrix(1 0 0 1 610.2568 270.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">AT 156 MILLLION AND HIGHEST MARKET </text>
+				<text transform="matrix(1 0 0 1 590.2568 295.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">SHARE OF 20.29%. REACHED OVER 30% IN THE</text>
+				<text transform="matrix(1 0 0 1 610.2568 320.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">OVERALL CONTRIBUTION MARGIN. HIGH</text>
+				<text transform="matrix(1 0 0 1 603.2568 345.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">END SENSOR, CID, MANAGED A WHOPPING </text>
+				<text transform="matrix(1 0 0 1 638.2568 370.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">37% CONTRIBUTION MARGIN. </text>
 			</g>
 		</g>
 	</g>
 	<g id="three">
-		<rect x="505.545" y="378" fill="#B1C482" width="17" height="160"/>
-		<polyline fill="#B1C482" points="509.334,449.133 497.023,458.455 514.566,469.415 		"/>
-		<text transform="matrix(1 0 0 1 558.6953 465.7109)" fill="#B1C482" font-family="'LeagueGothic'" font-size="28.2251">2019</text>
+		<rect x="505.545" y="378" fill="#000066" width="17" height="160"/>
+		<polyline fill="#000066" points="509.334,449.133 497.023,458.455 514.566,469.415 		"/>
+		<text transform="matrix(1 0 0 1 558.6953 465.7109)" fill="#000066" font-family="'LeagueGothic'" font-size="29">2019</text>
 		<g id="three-badge">
-			<circle fill="#B1C482" cx="311" cy="455.5" r="130.5"/>
+			<circle fill="#000066" cx="311" cy="455.5" r="130.5"/>
 			<g id="three-title">
-				<text transform="matrix(1 0 0 1 275.0991 365.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">CLIMBING</text>
-				<text transform="matrix(1 0 0 1 272.0991 395.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">THE ROPES</text>
+				<text transform="matrix(1 0 0 1 275.0991 365.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">CLIMBING</text>
+				<text transform="matrix(1 0 0 1 272.0991 395.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">THE ROPES</text>
 			</g>
 			<g id="three-details">
 				<rect x="215.893" y="818.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 226.1045 431.6289)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">64% OF WEB twoERS CONSIDER</text>
-				<text transform="matrix(1 0 0 1 244.9507 453.2305)" fill="#EBF4CE" font-family="'LeagueGothic'" font-size="18">THEMSELVES SELF-TAUGHT</text>
+				<text transform="matrix(1 0 0 1 215.1045 425.6289)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">INCREASE IN SHARE PRICE BY $5.89 TO</text>
+				<text transform="matrix(1 0 0 1 195.9507 450.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">$22.69. HIGHEST MARKET SHARE IN BOTH THE</text>
+				<text transform="matrix(1 0 0 1 205.9507 475.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">TRADITIONAL AND PERFORMANCE MARKET</text>
+				<text transform="matrix(1 0 0 1 220.9507 500.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">WITH OUR CAKE AND COAT SENSOR,</text>
+				<text transform="matrix(1 0 0 1 220.9507 525.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">RESPECTIVELY. NET INCOME RAISED</text>
+				<text transform="matrix(1 0 0 1 260.9507 550.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">FROM 500,000 TO 1.4</text>
+				<text transform="matrix(1 0 0 1 288.9507 575.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">MILLION.</text>
 			</g>
 		</g>
 	</g>
 	<g id="four">
-		<rect x="505.545" y="540" fill="#6DBACC" width="17" height="160"/>
-		<polyline fill="#6DBACC" points="520.256,620.415 532.566,611.092 515.023,600.133 		"/>
-		<text transform="matrix(1 0 0 1 407.2793 624.6328)" fill="#6DBACC" font-family="'LeagueGothic'" font-size="28.2251">2020</text>
+		<rect x="505.545" y="540" fill="#99e600" width="17" height="160"/>
+		<polyline fill="#99e600" points="520.256,620.415 532.566,611.092 515.023,600.133 		"/>
+		<text transform="matrix(1 0 0 1 407.2793 624.6328)" fill="#99e600" font-family="'LeagueGothic'" font-size="29">2020</text>
 		<g id="four-badge">
-			<circle fill="#6DBACC" cx="717" cy="615.5" r="130.5"/>
+			<circle fill="#99e600" cx="717" cy="615.5" r="130.5"/>
 			<g id="four-title">
-				<text transform="matrix(1 0 0 1 698.0996 526.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">FOUR</text>
+				<text transform="matrix(1 0 0 1 659.0996 536.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">COTTON, CANDY</text>
 			</g>
 			<g id="four-details">
 				<rect x="622.892" y="1046.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 637.332 659.6289)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">BROWSER QUIRKS CAN INCREASE </text>
-				<text transform="matrix(1 0 0 1 646.9707 681.2305)" fill="#B9E4EA" font-family="'LeagueGothic'" font-size="18">PRODUCTION TIME UP TO 71%</text>
+				<text transform="matrix(1 0 0 1 630.332 565.6289)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">OUR NEWLY DEVELOPED SENSORS </text>
+				<text transform="matrix(1 0 0 1 625.9707 590.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">RELEASED INTO THE HIGH-END AND</text>
+				<text transform="matrix(1 0 0 1 608.9707 615.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">PERFORMANCE SEGMENTS, RESPECTIVELY.</text>
+				<text transform="matrix(1 0 0 1 608.9707 640.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">HIGHEST MARKET SHARE AGAIN AT 20.47%.</text>
+				<text transform="matrix(1 0 0 1 630.9707 665.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">SOLD OUT OF ALMOST ALL OF OUR</text>
+				<text transform="matrix(1 0 0 1 628.9707 690.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">SENSORS. WE DOMINATED THE SIZE</text>
+				<text transform="matrix(1 0 0 1 643.9707 715.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">MARKET WITH 31% MARKET</text>
+				<text transform="matrix(1 0 0 1 697.9707 740.2305)" fill="#e6ffcc" font-family="'LeagueGothic'" font-size="20">SHARE.</text>
 			</g>
 		</g>
 	</g>
