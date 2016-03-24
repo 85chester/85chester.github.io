@@ -59,8 +59,13 @@
 			</g>
 			<g id="one-details">
 				<rect x="219.11" y="530.174" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 219.7134 143.4023)" fill="#CEB995" font-family="'LeagueGothic'" font-size="18">twoERS DRINK AN AVERAGE OF 380 </text>
-				<text transform="matrix(1 0 0 1 249.6372 165.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="18">CUPS OF one PER YEAR</text>
+				<text transform="matrix(1 0 0 1 223.7134 115.4023)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">3RD HIGHEST SALES REVENUE IN THE</text>
+				<text transform="matrix(1 0 0 1 225.6372 140.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">INDUSTRY. 21% MARKET SHARE IN </text>
+				<text transform="matrix(1 0 0 1 200.6372 165.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">PERFORMANCE SEGMENT WITH COAT SENSOR.</text>
+				<text transform="matrix(1 0 0 1 219.6372 190.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">REACHED A TOTAL OF 5 DIFFERENT AND </text>
+				<text transform="matrix(1 0 0 1 228.6372 215.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">UNIQUE SENSORS IN 5 DIFFERENT</text>
+				<text transform="matrix(1 0 0 1 285.6372 240.0039)" fill="#CEB995" font-family="'LeagueGothic'" font-size="19">MARKETS. </text>
+
 			</g>
 		</g>
 	</g>
@@ -71,12 +76,16 @@
 		<g id="two-badge">
 			<circle fill="#D1652F" cx="711" cy="294.5" r="130.5"/>
 			<g id="two-title">
-				<text transform="matrix(1 0 0 1 672.4639 210.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">COMEBACK</text>
+				<text transform="matrix(1 0 0 1 670.4639 208.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">COMEBACK</text>
 			</g>
 			<g id="two-details">
 				<rect x="616.468" y="650.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 630.1738 263.6289)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="18">WORLDWIDE, A NEW WEB PAGE IS </text>
-				<text transform="matrix(1 0 0 1 637.2568 285.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="18">twoED EVERY 0.4 SECONDS</text>
+				<text transform="matrix(1 0 0 1 617.1738 245.6289)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">HIGHEST SALES REVENUE OF INDUSTRY </text>
+				<text transform="matrix(1 0 0 1 613.2568 270.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">AT 156 MILLLION AND HIGHEST MARKET </text>
+				<text transform="matrix(1 0 0 1 595.2568 295.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">SHARE OF 20.29%. REACHED OVER 30% IN THE</text>
+				<text transform="matrix(1 0 0 1 615.2568 320.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">OVERALL CONTRIBUTION MARGIN. HIGH</text>
+				<text transform="matrix(1 0 0 1 605.2568 345.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">END SENSOR, CID, MANAGED A WHOPPING </text>
+				<text transform="matrix(1 0 0 1 640.2568 370.2305)" fill="#E8AD67" font-family="'LeagueGothic'" font-size="19">37% CONTRIBUTION MARGIN.</text>
 			</g>
 		</g>
 	</g>
@@ -87,7 +96,8 @@
 		<g id="three-badge">
 			<circle fill="#B1C482" cx="311" cy="455.5" r="130.5"/>
 			<g id="three-title">
-				<text transform="matrix(1 0 0 1 287.0991 370.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">THREE</text>
+				<text transform="matrix(1 0 0 1 275.0991 365.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">CLIMBING</text>
+				<text transform="matrix(1 0 0 1 272.0991 395.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28.2251">THE ROPES</text>
 			</g>
 			<g id="three-details">
 				<rect x="215.893" y="818.4" fill="none" width="187" height="68"/>
