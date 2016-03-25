@@ -359,8 +359,8 @@ hr {
 --- About
 ============================ */
 
-.boxed-grey {
-	background: #f9f9f9;
+.boxed-white {
+	background: #ffffff;
 	padding: 20px;
 }
 
@@ -429,11 +429,12 @@ hr {
 --- Services
 ============================ */
 
-.service-icon {
-	margin-bottom: 20px;
+
+.service {
+	width:100%;
+	position:relative;
+	background-color: #000099
 }
-
-
 
 /* ===========================
 --- Contact
