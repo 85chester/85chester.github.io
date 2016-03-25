@@ -180,12 +180,17 @@
 		<g id="seven-badge">
 			<circle fill="#000066" cx="313" cy="1110.5" r="130.5"/>
 			<g id="seven-title">
-				<text transform="matrix(1 0 0 1 292.5708 1050.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">SEVEN</text>
+				<text transform="matrix(1 0 0 1 270.5708 1030.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">LEADERS IN</text>
+				<text transform="matrix(1 0 0 1 267.5708 1060.5059)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">INNOVATION</text>
 			</g>
 			<g id="seven-details">
 				<rect x="217.893" y="1236.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 236.0879 1149.6289)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">HEINEKEN IS THE #1 CHOICE OF</text>
-				<text transform="matrix(1 0 0 1 240.1099 1171.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">BEER AMONG WEB twoERS</text>
+				<text transform="matrix(1 0 0 1 220.0879 1090.6289)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">HIGHEST PRODUCTIVITY RATE IN THE</text>
+				<text transform="matrix(1 0 0 1 205.1099 1115.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">THE INDUSTRY AT 121.8%. HAVE THE MOST</text>
+				<text transform="matrix(1 0 0 1 199.1099 1140.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">HIGHLY DEVELOPED PRODUCT IN TRADITIONAL,</text>
+				<text transform="matrix(1 0 0 1 225.1099 1165.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">SIZE, AND HIGH-END MARKETS. HAD</text>
+				<text transform="matrix(1 0 0 1 245.1099 1190.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">THE LOWEST SECOND SHIFT</text>
+				<text transform="matrix(1 0 0 1 290.1099 1215.2305)" fill="#ccccff" font-family="'LeagueGothic'" font-size="19">USAGE.</text>
 			</g>
 		</g>
 	</g>
@@ -196,7 +201,7 @@
 		<g id="eight-badge">
 			<circle fill="#99e600" cx="717" cy="1260.5" r="130.5"/>
 			<g id="eight-title">
-				<text transform="matrix(1 0 0 1 695.0996 1168.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">EIGHT</text>
+				<text transform="matrix(1 0 0 1 678.0996 1168.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">RECOVERY</text>
 			</g>
 			<g id="eight-details">
 				<rect x="622.892" y="1046.4" fill="none" width="187" height="68"/>
