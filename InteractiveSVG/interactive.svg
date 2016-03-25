@@ -201,12 +201,16 @@
 		<g id="eight-badge">
 			<circle fill="#99e600" cx="717" cy="1260.5" r="130.5"/>
 			<g id="eight-title">
-				<text transform="matrix(1 0 0 1 678.0996 1168.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">RECOVERY</text>
+				<text transform="matrix(1 0 0 1 678.0996 1183.1816)" fill="#FFFFFF" font-family="'LeagueGothic'" font-size="28">RECOVERY</text>
 			</g>
 			<g id="eight-details">
 				<rect x="622.892" y="1046.4" fill="none" width="187" height="68"/>
-				<text transform="matrix(1 0 0 1 637.332 1259.6289)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">ACHIEVED RECORD HIGH SHARE PRICE OF</text>
-				<text transform="matrix(1 0 0 1 646.9707 1281.2305)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">$41.63.</text>
+				<text transform="matrix(1 0 0 1 617.332 1220.6289)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">ACHIEVED RECORD HIGH SHARE PRICE</text>
+				<text transform="matrix(1 0 0 1 607.9707 1245.2305)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">OF $41.63. ATTAINED A BBB BOND RATING.</text>
+				<text transform="matrix(1 0 0 1 600.9707 1270.2305)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">SOLD OUT OF TRADITIONAL, HIGH-END, AND</text>
+				<text transform="matrix(1 0 0 1 605.9707 1295.2305)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">PERFORMANCE SENSORS. HIGHEST MARKET</text>
+				<text transform="matrix(1 0 0 1 618.9707 1320.2305)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">SHARE WITH SIZE SENSORS. HIGHEST </text>
+				<text transform="matrix(1 0 0 1 665.9707 1345.2305)" fill="#f3ffe6" font-family="'LeagueGothic'" font-size="20">NET PROFIT SO FAR. </text>
 			</g>
 		</g>
 	</g>
