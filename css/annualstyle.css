@@ -518,6 +518,22 @@ form#contact-form input:focus,form#contact-form select:focus,form#contact-form t
 .company-social .social-vimeo a:hover{background: #71c6f3;}
 
 
+.testimonials {
+
+	background color: #000066
+}
+
+#testimonials.testimonials {
+	padding: 5% 0 0 0;
+}
+
+.testimonials .slogan {
+	text-align:center;
+	color: #ffffff
+
+}
+
+
 
 /* ===========================
 --- Footer
