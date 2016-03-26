@@ -601,10 +601,19 @@ Parallax
     -moz-transition: background .3s ease-in-out;
     transition: background .3s ease-in-out;
 }
-
-.btn-circle.btn-dark {
+.btn-dark {
+    width: 70px;
+    height: 70px;
+    margin-top: 15px;
+    padding: 7px 16px;
     border: 2px solid #666;
+    border-radius: 50%;
+    font-size: 40px;
     color: #666;
+    background: 0 0;
+    -webkit-transition: background .3s ease-in-out;
+    -moz-transition: background .3s ease-in-out;
+    transition: background .3s ease-in-out;
 }
 
 
